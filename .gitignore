@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+.vscode
+debug.log
+tsrc/
+errorShots/
+report/
+allure-results
