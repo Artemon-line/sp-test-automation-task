@@ -9,7 +9,7 @@ GoogleChrome >= 84
 
 ## Usage:
 
-Add user credentioasl to env vars
+Add user credentials to env vars
 SP_USER_NAME SP_PASSWORD
 
 ## Install dependencies
